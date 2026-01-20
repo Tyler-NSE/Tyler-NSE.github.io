@@ -40,15 +40,15 @@ Now, click [here](https://support.broadcom.com/group/ecx/productdownloads?subfam
 
 On the landing page, you'll have the option to download VMware Workstation for both Windows and Linux. Select the Windows option and download the latest available version.
 
-![Branching](https://gt-legend.github.io/assets/img/vmware_install/vmware-workstation-17-pro-download.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/vmware_install/vmware-workstation-17-pro-download.PNG)
 
 VMware Workstation download page
 
-![Branching](https://gt-legend.github.io/assets/img/vmware_install/vmware-workstation-version.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/vmware_install/vmware-workstation-version.PNG)
 
 Download VMware Workstation for Windows
 
-![Branching](https://gt-legend.github.io/assets/img/vmware_install/download-vmware-workstation-for-windows.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/vmware_install/download-vmware-workstation-for-windows.PNG)
 
 ## How to Install the VMware Virtual Machine Software
 

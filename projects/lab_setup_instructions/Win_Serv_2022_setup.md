@@ -9,7 +9,7 @@ Windows server 2022 ISO can be downloaded [here](https://www.microsoft.com/en-us
 
 Choose the 64 bit ISO edition.
 
-![Branching](https://gt-legend.github.io/assets/img/win_serv-2022/iso_download.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/win_serv-2022/iso_download.PNG)
 
 ## Create the Windows Server 2022 Virtual Machine
 -------------------------------------------------
@@ -28,25 +28,25 @@ Choose the 64 bit ISO edition.
 
 * Choose "Installer disc image file (iso)" and browse to the location where you saved your Windows Server 2022 ISO file.
 
-![Branching](https://gt-legend.github.io/assets/img/win_serv-2022/disk_image.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/win_serv-2022/disk_image.PNG)
 
 #### 4. Easy Install Information
 
 * No product key is needed for now, as this is a demo version. Enter a username and password (if desired). Click Next.
 
-![Branching](https://gt-legend.github.io/assets/img/win_serv-2022/product_key.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/win_serv-2022/product_key.PNG)
 
 #### 5. Name the Virtual Machine
 
 * Give your VM a name and choose the location for storing the VM files. Ensure that you have enough local disk space available.
 
-![Branching](https://gt-legend.github.io/assets/img/win_serv-2022/name_vm.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/win_serv-2022/name_vm.PNG)
 
 #### 6. Specify Disk Capacity
 
 * Enter the maximum disk capacity. It is recommended to allocate at least 60 GB to accommodate the operating system and applications. Choose whether to store the virtual disk as a single file or split it into multiple files. Single files generally perform better.
 
-![Branching](https://gt-legend.github.io/assets/img/win_serv-2022/disk_cap.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/win_serv-2022/disk_cap.PNG)
 
 #### 7. Customize Hardware (Optional)
 
@@ -79,7 +79,7 @@ Note: I ran into a bug when powering on for the first time I booted the VM. I ha
 
 * At Customize sessings prompt, enter a password for the built in administrator account and click Finish.
 
-![Branching](https://gt-legend.github.io/assets/img/win_serv-2022/custom_settings.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/win_serv-2022/custom_settings.PNG)
 
 #### 3. Start Windows Setup
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Tyler Hardy
 
-###  Network Security Analyst
+###  Network Security Engineer
 
 * * *
 
