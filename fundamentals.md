@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+
+# Core Technical Fundamentals
+
+## [Networking](./fundamentals/networking.html)
+
+TCP vs UDP, 3 way handshake, DNS, HTTP, TLS, VPNs, proxies, NAT, load balancers
+
+## [Operating Systems](./fundamentals/OS.html)
+
+Processes, users and groups, permissions, system calls, logs, basic hardening, troubleshooting
+
+## [Web Basics](./fundamentals/web_basics.html)
+
+How the browser works, cookies, sessions, CORS, same origin policy, redirects
+
+
+[back](./)
