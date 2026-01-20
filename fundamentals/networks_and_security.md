@@ -33,7 +33,7 @@ layout: default
 
 *  [NAT](./net_sec_101/nat.html)
 
-*  [Load Balancers](./net_sec_101/load_balancers.html)load balancers
+*  [Load Balancers](./net_sec_101/load_balancers.html)
 
 ## 
 
