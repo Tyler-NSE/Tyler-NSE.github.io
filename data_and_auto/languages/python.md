@@ -288,4 +288,4 @@ Examples of [Python libraries](https://docs.python.org/3/library/) containing ot
 * datetime: Basic date and time types
 * queue: Synchronized queue class
 
-[Back](/tools_and_skills.html)
+[Back](/data_and_auto/languages_and_data_tools.html)

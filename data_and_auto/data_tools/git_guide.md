@@ -372,4 +372,4 @@ This command will force a push request. This is usually fine for pull request br
 git push -f
 ```
 
-[Back](/tools_and_skills.html)
+[Back](/data_and_auto/languages_and_data_tools.html)

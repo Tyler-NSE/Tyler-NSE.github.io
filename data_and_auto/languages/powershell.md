@@ -402,4 +402,4 @@ PS C:\> dir | group extension | sort
 PS C:\> Get-Service dhcp | Stop-Service -PassThru | Set-Service -StartupType Disabled
 ```
 
-[Back](/tools_and_skills.html)
+[Back](/data_and_auto/languages_and_data_tools.html)
