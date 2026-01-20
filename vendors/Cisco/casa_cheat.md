@@ -20,6 +20,11 @@ To effectively manage your Cisco ASA, it’s essential to know some foundational
 
 1. Show Version and Hardware Information
 
+<div class="code-container">
+  <button class="copy-btn">Copy</button>
+  <pre><code id="contentToCopy">show version</code></pre>
+</div>
+
 ```
 show version
 ```
@@ -206,5 +211,28 @@ show version | include up
 ```
 
 * * *
+
+
+document.addEventListener('DOMContentLoaded', () => {
+  const copyButtons = document.querySelectorAll('.copy-btn');
+  
+  copyButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      // Find the adjacent code block's content
+      const codeBlock = button.nextElementSibling.querySelector('#contentToCopy'); 
+      if (codeBlock && codeBlock.textContent) {
+        navigator.clipboard.writeText(codeBlock.textContent).then(() => {
+          // Optional: Provide user feedback
+          button.textContent = 'Copied!';
+          setTimeout(() => {
+            button.textContent = 'Copy';
+          }, 2000);
+        }).catch(err => {
+          console.error('Failed to copy: ', err);
+        });
+      }
+    });
+  });
+});
 
 [Back](/vendors/cisco.html)
