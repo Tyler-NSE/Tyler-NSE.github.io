@@ -20,10 +20,6 @@ To effectively manage your Cisco ASA, it’s essential to know some foundational
 
 1. Show Version and Hardware Information
 
-<input type="text" value="show version" id="myInput">
-<button onclick="copyText()">Copy text</button>
-<span id="copySuccess"></span>
-
 ```
 show version
 ```
@@ -210,30 +206,5 @@ show version | include up
 ```
 
 * * *
-
-
-async function copyText() {
-  // Get the text field element and its value
-  let textToCopy = document.getElementById("myInput").value;
-  
-  try {
-    // Use the Clipboard API to write the text
-    await navigator.clipboard.writeText(textToCopy);
-    
-    // Optional: Provide user feedback
-    const successSpan = document.getElementById("copySuccess");
-    successSpan.textContent = "Copied!";
-    setTimeout(() => {
-      successSpan.textContent = "";
-    }, 2000);
-
-  } catch (err) {
-    console.error('Failed to copy: ', err);
-  }
-}
-
-<input type="text" value="Hello World" id="myInput">
-<button onclick="copyText()">Copy text</button>
-<span id="copySuccess"></span>
 
 [Back](/vendors/cisco.html)
