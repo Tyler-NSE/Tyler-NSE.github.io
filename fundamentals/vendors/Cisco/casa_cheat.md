@@ -207,4 +207,4 @@ show version | include up
 
 * * *
 
-[Back](/vendors/cisco.html)
+[Back](/fundamentals/vendors/cisco.html)

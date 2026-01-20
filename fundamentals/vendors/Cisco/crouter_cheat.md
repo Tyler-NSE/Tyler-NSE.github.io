@@ -228,4 +228,4 @@ In the final section of this cheat sheet we’ll include basic troubleshooting c
 
 * * *
 
-[Back](/vendors/cisco.html)
+[Back](/fundamentals/vendors/cisco.html)

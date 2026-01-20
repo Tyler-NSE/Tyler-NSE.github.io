@@ -629,4 +629,4 @@ This cheat sheet provides common CLI commands for managing **Fortinet Firewalls*
 * * *
 
 
-[Back](/vendors/fortinet.html)
+[Back](/fundamentals/vendors/fortinet.html)

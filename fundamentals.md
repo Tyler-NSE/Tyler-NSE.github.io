@@ -5,7 +5,7 @@ layout: default
 
 # Core Technical Fundamentals
 
-## [Networking](./fundamentals/networking.html)
+## [Networks and Security](./fundamentals/networks_and_security.html)
 
 TCP vs UDP, 3 way handshake, DNS, HTTP, TLS, VPNs, proxies, NAT, load balancers
 

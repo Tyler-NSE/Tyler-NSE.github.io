@@ -141,4 +141,4 @@ fw monitor -m iIoO -e “accept (sport=5200 or sport=5100 or sport=5000);”
 ```
 
 
-[Back](/vendors/checkpoint.html)
+[Back](/fundamentals/vendors/checkpoint.html)

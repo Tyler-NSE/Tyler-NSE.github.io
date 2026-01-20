@@ -138,4 +138,4 @@ monitor capture buffer <buffer-name> clear
 
 * * *
 
-[Back](/vendors/cisco.html)
+[Back](/fundamentals/vendors/cisco.html)

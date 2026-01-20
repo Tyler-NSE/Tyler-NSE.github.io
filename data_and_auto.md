@@ -5,6 +5,10 @@ layout: default
 
 # Data and Automation Skills
 
+## [Languages and Data Toolset](./data_and_auto/languages_and_data_tools.html)
+
+Markdown, Python, Powershell, Git
+
 ## [Scripting](./data_and_auto/scripting.html)
 
 Using Python or similar to parse logs, call APIs, glue tools together

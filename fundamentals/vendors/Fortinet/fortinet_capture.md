@@ -69,5 +69,5 @@ layout: default
     execute ping <destination_ip>
     execute traceroute <destination_ip>
 
-[Back](/vendors/fortinet.html)
+[Back](/fundamentals/vendors/fortinet.html)
 

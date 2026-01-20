@@ -5,5 +5,5 @@ layout: default
 
 
 
-[Back](/vendors/palo_alto.html)
+[Back](/fundamentals/vendors/palo_alto.html)
 
