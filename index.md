@@ -39,8 +39,6 @@ Please see the links below for my past projects and experience with a wide range
 
 *  [Data and Automation Skills](./data_and_auto.html)
 
-<!-- >[Operating Systems](./vendors.html)
 
-#[Tools and Skills](./tools_and_skills.html) -->
 
 * * *

@@ -35,7 +35,6 @@ layout: default
 
 *  [Load Balancers](./net_sec_101/load_balancers.html)
 
-## 
 
 
 [back](/fundamentals.html)
