@@ -9,7 +9,7 @@ layout: default
 
 TCP vs UDP, 3 way handshake, DNS, HTTP, TLS, VPNs, proxies, NAT, load balancers
 
-## [Operating Systems](./fundamentals/OS.html)
+## [Operating Systems](./fundamentals/os.html)
 
 Processes, users and groups, permissions, system calls, logs, basic hardening, troubleshooting
 

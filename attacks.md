@@ -9,7 +9,7 @@ layout: default
 
 XSS, SQLi, CSRF, IDOR, SSRF, auth bypass, broken access control
 
-## [Infrastructure and Cloud Attacks](./attacks/infrastructure_and_cloud_attacks.html)
+## [Infrastructure and Cloud Attacks](./attacks/infra_and_cloud_attacks.html)
 
 Open storage buckets, exposed creds, weak IAM, misconfigured security groups
 

@@ -9,7 +9,7 @@ layout: default
 
 Secure coding habits, input validation, output encoding, secrets handling
 
-## [In Pipelines](./sec_sdlc_and_devsecops/in-pipelines.html)
+## [In Pipelines](./sec_sdlc_and_devsecops/in_pipelines.html)
 
 VPCs, subnets, security groups, WAF, private vs public access
 

@@ -18,17 +18,28 @@ Please see the links below for my past projects and experience with a wide range
 
 * * *
 
-## Links
 
 -------------------------------------
 
 # Personal Projects
 
-## [Projects and Experience](./projects.html)
+## [Projects and Labs](./projects.html)
 
 -------------------------------------
 
 ## Guides and Cheatsheets
+
+### [Core Technical Fundamentals](./fundamentals.html)
+
+### [How Attacks Actually Work](./attacks.html)
+
+### [Detection and Response](./det-and-resp.html)
+
+### [Cloud and Platform Security](./cloud-and-platform-sec.html)
+
+### [Secure SDLC and DevSecOps](./sec-sdlc-and-devsecops.html)
+
+### [Data and Automation Skills](./data-and-automation.html)
 
 ### [Operating Systems](./vendors.html)
 
