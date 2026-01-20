@@ -36,6 +36,7 @@ Certified Incident Handler (GCIH)
 Security Essentials Certification (GSEC)
 Foundational Cybersecurity Technologies (GFACT)
 Certified Intrusion Analyst (GCIA)
+GIAC Continuous Monitoring Certification (GMON)
 
 ### Current Projects
 

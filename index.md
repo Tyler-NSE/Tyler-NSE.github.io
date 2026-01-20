@@ -19,30 +19,28 @@ Please see the links below for my past projects and experience with a wide range
 * * *
 
 
--------------------------------------
-
 # Personal Projects
 
-## [Projects and Labs](./projects.html)
+*  [Projects and Labs](./projects.html)
 
 -------------------------------------
 
-## Guides and Cheatsheets
+## Network Security Engineer 101
 
-### [Core Technical Fundamentals](./fundamentals.html)
+*  [Core Technical Fundamentals](./fundamentals.html)
 
-### [How Attacks Actually Work](./attacks.html)
+*  [How Attacks Actually Work](./attacks.html)
 
-### [Detection and Response](./det-and-resp.html)
+*  [Detection and Response](./det-and-resp.html)
 
-### [Cloud and Platform Security](./cloud-and-platform-sec.html)
+*  [Cloud and Platform Security](./cloud-and-platform-sec.html)
 
-### [Secure SDLC and DevSecOps](./sec-sdlc-and-devsecops.html)
+*  [Secure SDLC and DevSecOps](./sec-sdlc-and-devsecops.html)
 
-### [Data and Automation Skills](./data-and-automation.html)
+*  [Data and Automation Skills](./data-and-automation.html)
 
-### [Operating Systems](./vendors.html)
+###[Operating Systems](./vendors.html)
 
-### [Tools and Skills](./tools_and_skills.html)
+###[Tools and Skills](./tools_and_skills.html)
 
 * * *
