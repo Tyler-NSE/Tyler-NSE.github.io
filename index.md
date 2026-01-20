@@ -4,9 +4,9 @@ layout: default
 
 # Professional Portfolio
 
-## Tyler Hardy
+* * *
 
-###  Network Security Engineer
+## Tyler Hardy - Network Security Engineer
 
 * * *
 
@@ -39,8 +39,8 @@ Please see the links below for my past projects and experience with a wide range
 
 *  [Data and Automation Skills](./data-and-automation.html)
 
-###[Operating Systems](./vendors.html)
+<!-- >[Operating Systems](./vendors.html)
 
-###[Tools and Skills](./tools_and_skills.html)
+#[Tools and Skills](./tools_and_skills.html) -->
 
 * * *
