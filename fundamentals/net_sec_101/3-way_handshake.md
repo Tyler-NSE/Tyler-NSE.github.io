@@ -13,7 +13,7 @@ The TCP 3-Way Handshake is a process used by the Transmission Control Protocol (
 
 ## TCP Structure
 
-![Branching](https://tyler-nse.github.io/assets/img/net_sec_101/tcp_header.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/net_sec_101/tcp_header.png)
 
 The header of a TCP segment can range from 20-60 bytes. 40 bytes are for options. If there are no options, a header is 20 bytes else it can be of upmost 60 bytes. Header fields:
 
@@ -28,15 +28,10 @@ The header of a TCP segment can range from 20-60 bytes. 40 bytes are for options
 5. Control Flags (1 bit each):
 
 *   URG: Urgent data
-
 *   ACK: Acknowledgement valid
-
 *   PSH: Push data immediately
-
 *   RST: Reset connection
-
 *   SYN: Synchronize sequence numbers
-
 *   FIN: Terminate connection
 
 6. Window Size: Receiver’s buffer size (for flow control).
@@ -47,7 +42,7 @@ The header of a TCP segment can range from 20-60 bytes. 40 bytes are for options
 
 ## TCP 3-Way Handshake Process
 
-![Branching](https://tyler-nse.github.io/assets/img/net_sec_101/3-way_handshake.PNG)
+![Branching](https://tyler-nse.github.io/assets/img/net_sec_101/3-way_handshake.png)
 
 *   Step 1 (SYN): In the first step, the client wants to establish a connection with a server, so it sends a segment with SYN(Synchronize Sequence Number) which informs the server that the client is likely to start communication and with what sequence number it starts segments with
 

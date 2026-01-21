@@ -45,4 +45,6 @@ UDP is a fast, connectionless transport protocol that sends data without reliabi
 |  Does not support broadcasting or multicasting  | Supports broadcasting and multicasting |
 |          Used by HTTP, HTTPS, FTP, SMTP         |   Used by DNS, DHCP, VoIP, Streaming   |
 
+
+
 [back](/fundamentals/networks_and_security.html)
