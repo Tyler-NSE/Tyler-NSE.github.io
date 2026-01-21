@@ -4,7 +4,7 @@ layout: default
 
 # HTTP
 
-For more information on HTTP protocol, please see [here](https://datatracker.ietf.org/doc/html/rfc2616).
+***
 
 - [What is HTTP](#what-is-http)
 - [What is HTTPS](#what-is-https)
@@ -53,7 +53,8 @@ An HTTP request is the way Internet communications platforms such as web browser
 
 For example:
 
-```GET / HTTP/1.1
+```
+GET / HTTP/1.1
 Host: tryhackme.com
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Firefox/87.0
 Referer: https://tryhackme.com/
@@ -63,7 +64,8 @@ Referer: https://tryhackme.com/
 
 An HTTP response is the message that a server sends back to a client in response to an HTTP request. It usually consists of a status line, headers, and a message body:
 
-```HTTP/1.1 200 OK
+```
+HTTP/1.1 200 OK
 Server: nginx/1.15.8
 Date: Fri, 09 Apr 2021 13:34:03 GMT
 Content-Type: text/html
